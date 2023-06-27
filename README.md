@@ -9,3 +9,6 @@
     - The navigation bar need to be deleted when arriving to he footer as it hide the data in it
 - Fixing some words and adding missing info
 - The Deployment will be changed later to have an https, domain name, and CI/CD.
+
+# Visit the website through this link
+[Rofayda](https://rofaydaaa.github.io/Profile/)
