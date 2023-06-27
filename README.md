@@ -1,4 +1,4 @@
-# My Portfolio Website developped using React
+# Portfolio Website developped using React
 
 ### Future Work:
 - Fixing some bugs related to responsivness
