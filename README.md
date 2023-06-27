@@ -1,9 +1,5 @@
 # My Portfolio Website developped using React
 
-### Features:
-- Responsive To Mobile and Tablets
-
-
 ### Future Work:
 - Fixing some bugs related to responsivness
 - Send Email through sumbmission form not working yet and need to be developped
