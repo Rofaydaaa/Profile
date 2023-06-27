@@ -1,7 +1,6 @@
 # Portfolio Website developped using React
 
 ### Future Work:
-- Fixing some bugs related to responsivness
 - Send Email through sumbmission form not working yet and need to be developped
 - Add ratio for skills (Experienced, Intermediate, Beginner, Currently learning)
 - Navigation bar need some fixes 
