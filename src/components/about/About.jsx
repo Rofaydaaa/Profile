@@ -41,7 +41,7 @@ export const About = () => {
                 <li><small>- Start my blog </small></li>
                 <li><small>- Start a part time job before graduating</small></li>
                 <li><small>- Improve some of my skills and acquire new ones</small></li>
-                <li><small>- More Adventure</small></li>
+                <li><small>- More Adventures</small></li>
               </ul>
             </article>
           </div>
