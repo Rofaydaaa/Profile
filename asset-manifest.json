@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Profile/static/css/main.13caf756.css",
-    "main.js": "/Profile/static/js/main.8e772cda.js",
+    "main.js": "/Profile/static/js/main.b1184c93.js",
     "static/media/me2.png": "/Profile/static/media/me2.1ec364449d8383314c0f.png",
     "static/media/me.png": "/Profile/static/media/me.84f5935027551d87b321.png",
     "static/media/Rofayda_Bassem ElSayed_Resume.pdf": "/Profile/static/media/Rofayda_Bassem ElSayed_Resume.ce70e4baa3e5a16658d2.pdf",
@@ -9,10 +9,10 @@
     "static/media/IMG1.png": "/Profile/static/media/IMG1.24bfd267fbf0084ea8c0.png",
     "index.html": "/Profile/index.html",
     "main.13caf756.css.map": "/Profile/static/css/main.13caf756.css.map",
-    "main.8e772cda.js.map": "/Profile/static/js/main.8e772cda.js.map"
+    "main.b1184c93.js.map": "/Profile/static/js/main.b1184c93.js.map"
   },
   "entrypoints": [
     "static/css/main.13caf756.css",
-    "static/js/main.8e772cda.js"
+    "static/js/main.b1184c93.js"
   ]
 }
